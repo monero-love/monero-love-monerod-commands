@@ -1,0 +1,29 @@
+{
+  "article": "https://monero.love/guides/monerod-commands/",
+  "recorded_at_utc": "2026-11-21T18:16:04.578385+00:00",
+  "source_kind": "live published HTML",
+  "article_html_sha256": "a9e21411b64554b46c23f2fdbf44a34f5feeb077d96690d7a2aa14d7dfee6559",
+  "files": {
+    ".gitignore": {
+      "sha256": "58c2ae86583b93c1ae764f01f77a50f0e76673b84c8fe387c7c70c8061056e7e"
+    },
+    "ARTICLE-EXAMPLES.md": {
+      "sha256": "20fe1f52d9a65f6bfbd0b654ec223196e310e3ffbe63c792505ffd747ef367c6"
+    },
+    "README.md": {
+      "sha256": "0f0faa1297504270b573cd6dee38700ce42a03961b9ff10107052ccd44197060"
+    },
+    "VALIDATION.md": {
+      "sha256": "e9e65a6c40d4d09fa930afe88c7749e95374071c2e49f944e51e40c1104d4c47"
+    },
+    "monerod-local.conf": {
+      "sha256": "e2b5750471b07a19e060f47f0cd390516bbfd563b258b0e88dd2068d4bc827dd"
+    },
+    "monerod-public-rpc.fragment.conf": {
+      "sha256": "d7c07d4388fa720f670afa1c9c28d032b5c7d8bfb3adca2d438bab8d127f9bd9"
+    },
+    "monerod-tls.fragment.conf": {
+      "sha256": "d8c710ab3865e2f816eb77e4db798d59794d7e5575ae86a561612f4275463118"
+    }
+  }
+}
